@@ -15,6 +15,8 @@ But in the meantime, you'll have to make do with that; I don't know exactly when
 
 ---
 
+Incidentally, for those who can’t be bothered to read through 2,800 lines of code, I’ve included a few excerpts from the system that I deemed relevant.
+
 
 <details>
 <summary>Expand to see the complete compile-time lexer assembly and DFA configuration</summary>
