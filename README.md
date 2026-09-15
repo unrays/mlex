@@ -1,3 +1,5 @@
+## exotic::mlex
+
 This project is actually part of a compiler project that I unfortunately never finished. For more information, please visit the project's GitHub repository via [this link](https://github.com/unrays/metacompiler).
 
 This system is far more akin to a full-fledged engine than a simple lexer. Its architecture naturally fosters flexibility and extensibility. Consequently, it is easy to modify any of the system's parameters, such as terms, categories, priorities, and so on.
